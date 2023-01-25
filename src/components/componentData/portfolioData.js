@@ -31,7 +31,7 @@ export const projectData = [
   {
     img: require('../../assets/website.jpg'),
     title: 'Website',
-    url: 'http://portfoliosumon.s3-website-eu-west-1.amazonaws.com/',
+    url: 'https://sumon-portfolio-react.netlify.app/',
     rows: 2,
     cols: 2,
     featured: true,
