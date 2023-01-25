@@ -54,7 +54,7 @@ const About = () => {
           Technology University. As a person I am quiet and calm. The most
           important things that I have patience and dedication as well. In my
           free time, I enjoy spending time with friends, like to play chess and
-          watching football.
+          watching football. Currently learning c# and .Net Core at Integrify.
         </Typography>
 
         <Grid container spacing={1}>
