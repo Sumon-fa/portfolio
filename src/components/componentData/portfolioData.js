@@ -1,5 +1,10 @@
 export const projectData = [
   {
+    img: require('../../assets/shopping.png'),
+    title: 'Shopping',
+    url: 'https://shopping-ecommece.netlify.app/',
+  },
+  {
     img: require('../../assets/food-order.jpg'),
     title: 'Food-Order-App',
     rows: 2,

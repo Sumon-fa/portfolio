@@ -1,6 +1,6 @@
 import * as React from 'react';
 import BottomNavigation from '@mui/material/BottomNavigation';
-//import resume from "../../assets/Sumon's Resume.pdf";
+import resume from "../../assets/Sumon's Resume.pdf";
 import { useStyles } from '../style/footerStyle';
 import { Link } from '@mui/material';
 export default function Footer() {
@@ -22,7 +22,7 @@ export default function Footer() {
           color: '#fff',
           fontSize: '2rem',
         }}
-        href="#"
+        href={resume}
         download="Sumon's CV"
       >
         Download My CV

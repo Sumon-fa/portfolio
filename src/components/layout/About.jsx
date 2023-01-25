@@ -47,12 +47,14 @@ const About = () => {
           About
         </Typography>
         <Typography variant="body1" className={classes.cardBody1}>
-          I am Sumon Fakir, born and raised in Dhaka, Bangladesh. I have been
-          living in Finland for four years. I have completed my vocational
-          degree in ICT from Business College Helsinki. As a person I am quiet
-          and calm. The most important things that I have patience and
-          dedication as well. In my free time, I enjoy spending time with
-          friends, like to play chess and watching football.
+          I am Sumon Fakir, born and raised in Dhaka, Bangladesh. I have resided
+          in Finland for the past five years. I hold a vocational degree in ICT
+          from Business College Helsinki, as well as a B.SC (Hons.) in
+          Criminology and Police Science degree from Mawlana Bhasani Science and
+          Technology University. As a person I am quiet and calm. The most
+          important things that I have patience and dedication as well. In my
+          free time, I enjoy spending time with friends, like to play chess and
+          watching football.
         </Typography>
 
         <Grid container spacing={1}>
