@@ -23,12 +23,6 @@ export const projectData = [
     url: ' https://bigshopdummy.herokuapp.com/',
   },
   {
-    img: require('../../assets/keeper.jpg'),
-    title: 'Keeper-App',
-    url: 'https://keeper-app-staging.herokuapp.com/',
-    cols: 2,
-  },
-  {
     img: require('../../assets/ci.jpg'),
     title: 'CI-CD',
     url: 'https://pokefullstackopencicd.herokuapp.com/',
