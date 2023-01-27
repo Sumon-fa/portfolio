@@ -85,11 +85,10 @@ const About = () => {
               ))}
             </Grid>
             <Typography variant="body2" className={classes.body2Height}>
-              I have more than 2 years of experience as a web developer. I have
-              advanced knowledge of React with Redux and Redux-toolkit, Node,
-              AWS lambda and CSS and with outstanding passion and dedication as
-              well. I have worked hard, now I am ready to implement my knowledge
-              into practice.
+              I have advanced knowledge of React with Redux and Redux-toolkit,
+              Node, AWS lambda and CSS and with outstanding passion and
+              dedication as well. I have worked hard, now I am ready to
+              implement my knowledge into practice.
             </Typography>
           </Grid>
         </Grid>
